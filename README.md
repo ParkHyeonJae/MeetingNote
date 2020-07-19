@@ -1,2 +1,2 @@
 # MeetingNote
-Sullivian Project : Meeting Note Repo
+Sullivan Project : Meeting Note Repo
